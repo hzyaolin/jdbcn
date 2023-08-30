@@ -1,0 +1,22 @@
+#timer {
+    position: relative;
+    gap: 2em;
+}
+
+#timer>.progress {
+    position: absolute;
+    bottom: 0;
+    height: .2em;
+    margin: 0;
+    background: linear-gradient(to right, var(--ac3), var(--ac2));
+}
+
+#timer>.progress::after {
+    position: absolute;
+    right: 0;
+    width: .2em;
+    height: 100%;
+    content: ' ';
+    background: var(--ac1);
+    box-shadow: 0 0 .2em var(--ac1);
+}
