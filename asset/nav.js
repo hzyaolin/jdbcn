@@ -60,18 +60,18 @@ nav.list[0] = [{
   ]
 }, {
   name: "资本市场", icon: "fa-solid fa-circle-dollar-to-slot", item: [
-    { text: "巨潮信息", icon: "fa-solid fa-wave-square", desc: "境内上市公司资料查询", link: "https://www.wetools.com/pinyin" }, 
-    { text: "披露易", desc: "香港上市公司资料查询", link: "https://fa6.dashgame.com/"}, 
-    { text: "中小企业股权转让系统", link: "https://mi.aliyun.com" },  
-    { text: "全国财政电子票据查验平台", link: "http://www.wetools.com/" },
-    { text: "中国证券监督管理委员会", link: "https://tool.browser.qq.com/" },
-    { text: "中国证券投资基金业协会", link: "https://www.iconfont.cn/" },
+    { text: "巨潮信息", icon: "fa-solid fa-wave-square", desc: "境内上市公司资料查询", link: "http://www.cninfo.com.cn/" }, 
+    { text: "披露易", desc: "香港上市公司资料查询", link: "https://www.hkexnews.hk/index_c.htm"}, 
+    { text: "中小企业股权转让系统", link: "https://www.neeq.com.cn/" },  
+    { text: "全国财政电子票据查验平台", link: "http://pjcy.mof.gov.cn/" },
+    { text: "中国证券监督管理委员会", link: "http://www.csrc.gov.cn/" },
+    { text: "中国证券投资基金业协会", link: "https://www.amac.org.cn/" },
   ]
 }, {
   name: "行政政府部门", icon: "fa-solid fa-landmark-dome", item: [
     // { text: "校园网", link: "https://github.com/drcoms/drcom-generic/wiki/可用学校列表" },
     { text: "全国建筑市场监督公共服务平台", desc: "全国建筑市场监管公共服务平台（四库一平台）", icon: "fa-solid fa-building-shield", link: "https://jzsc.mohurd.gov.cn/home" },
-    { text: "对外承包工程经营主体查询", desc: "国务院办公厅电子政务办公室", link: "https://werss.app/" },
+    { text: "对外承包工程经营主体查询", desc: "国务院办公厅电子政务办公室", link: "http://app.gjzwfw.gov.cn/jmopen/webapp/html5/swbdwcbgcjyztcx/index.html" },
   ]
 },]
 
